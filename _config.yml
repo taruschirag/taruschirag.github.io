@@ -13,7 +13,7 @@ title: "Chirag's Homepage`"
 title_separator: "-"
 name: &name "Chirag Jain"
 description: &description "personal description"
-url: https://taruschirag.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url: https://taruschirag.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "taruschirag/taruschirag.github.io"
 
@@ -38,24 +38,13 @@ author:
   orcid: "https://orcid.org/0009-0007-1195-1572"
 
   # Repositories and software development
-  bitbucket: # Username - Update with your username on the site
-  codepen: # Username
-  dribbble: # Username
   github: "taruschirag"
   kaggle: # Username
-  stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky: "bsky.app" # Replace this with you Bluesky username
-  facebook: # Username
-  flickr: # Username
-  foursquare: # Username
-  goodreads: # Username
-  google_plus: # Username
   keybase: # Username
-  instagram: # Username
   lastfm: # Username
-  linkedin: # Username
+  linkedin: chiragjain222
   mastodon: # URL
   medium: # URL
   pinterest: # Username
