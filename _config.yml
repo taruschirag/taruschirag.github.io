@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Chirag's Homepage`"
+title: "Chirag's Homepage"
 title_separator: "-"
 name: &name "Chirag Jain"
 description: &description "personal description"
