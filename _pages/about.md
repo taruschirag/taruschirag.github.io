@@ -16,5 +16,7 @@ redirect_from:
 # Timeline
 
 -> Started BS in CS @ UMD in Fall '22
+
 -> SWE Intern @ Truss Health in Summer '24
+
 -> AI Security Research with UMD + Capital One in Fall '24
