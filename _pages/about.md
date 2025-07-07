@@ -19,4 +19,4 @@ redirect_from:
 
 -> SWE Intern @ Truss Health in Summer '24
 
--> AI Security Research with UMD + Capital One in Fall '24
+-> AI Security Research with UMD + Capital One in Fall '24 [ICML'25 workshop poster]
