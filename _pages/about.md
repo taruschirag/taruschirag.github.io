@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
--> I am a final year CS student @ University of Maryland, College Park
+-> I am a 4th year CS student @ University of Maryland, College Park
 
--> I will be pursuing a Masters in Applied ML
-
--> My interests lie in LLM security and vision research
+-> My interests lie in LLM security, vision research and doing math puzzles ;)
 
 # Timeline
 
